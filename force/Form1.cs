@@ -26,7 +26,7 @@ namespace force
                 double fx = f * cos(a);
                 double fy = f * sin(a);
                 label1.Text = "fx =" + fx + "N";
-                label2.Text = "fy =" + fy + "N";
+                label2.Text = "fy =" + fy + "N"; 
             }
             catch
             {
